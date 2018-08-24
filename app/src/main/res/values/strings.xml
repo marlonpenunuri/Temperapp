@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Temperapp</string>
+    <string name="created_by">Marlon Peñuñuri L.</string>
+    <string name="title_activity_main">Calculadora</string>
+
+    <string name="conversion_title">Calculadora de grados Celsius a Fahrenheit</string>
+    <string name="celsius_degrees">Grados centigrados</string>
+    <string name="button_convert_string">Convertir</string>
+    <string name="conversion_result">Resultado en Fahrenheit:</string>
+
+
+</resources>
